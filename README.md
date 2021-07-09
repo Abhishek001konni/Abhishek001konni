@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek001konni
-- 👀 I’m interested in building roms 
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on teaching me to learn java 
 - 📫 
 

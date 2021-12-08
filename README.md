@@ -9,6 +9,6 @@
 <!---
 Abhishek001konni/Abhishek001konni is a ✨ special ✨ repository
 
-[![Abhiehek001konni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek001konni)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhiehek001konni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek001konni)](https://github.com/abhishek001konni/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek001konni&layout=compact)](https://github.com/abhishek001konni/github-readme-stats)

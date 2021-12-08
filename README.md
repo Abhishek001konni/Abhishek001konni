@@ -11,3 +11,4 @@ Abhishek001konni/Abhishek001konni is a ✨ special ✨ repository
 
 ![Abhishek001konni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek001konni&theme=github_dark&show_icons=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek001konni&layout=compact)](https://github.com/abhishek001konni/github-readme-stats)

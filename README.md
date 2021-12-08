@@ -9,5 +9,5 @@
 <!---
 Abhishek001konni/Abhishek001konni is a ✨ special ✨ repository
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek001konni)
+![Abhishek001konni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek001konni&theme=github_dark&show_icons=true&count_private=true)
 

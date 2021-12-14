@@ -21,5 +21,7 @@ Skills: / C++ / Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhishek001konni)  
 
+![GitHub metrics](https://metrics.lecoq.io/Abhishek001konni)  
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001konni)  
 

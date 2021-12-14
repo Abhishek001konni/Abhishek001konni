@@ -13,7 +13,6 @@ I'm Abhishek from India.I do Android development and cyb sec. I really enjoy lea
 <p align="left">
 <a href="https://twitter.com/lopster70x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lopster70x" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17537869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17537869" height="30" width="40" /></a>
-<a href="https://instagram.com/_lopste.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lopste.r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -3,7 +3,7 @@
 I'm Abhishek from India.I do Android development and cyb sec. I really enjoy learning languages
 
 - 🔭 I’m currently working on Building custom roms and kernels 
-- 🌱 I’m currently learning c++  
+- 🌱 Right now I'm learning c++  
 - 🤔 I’m seeking help to learn more contents about languages 
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 

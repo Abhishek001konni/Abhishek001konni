@@ -31,5 +31,5 @@ I,m Abhishek from India and i do Android development and cyb sec. I really enjoy
 
 ![GitHub metrics](https://metrics.lecoq.io/Abhishek001konni)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001konni)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001konni&theme=highcontrast)](https://git.io/streak-stats)
 

@@ -2,12 +2,12 @@
 #### Android developer 
 ![Android developer ](https://cdn.dribbble.com/users/74401/screenshots/1645509/media/108d0337893ae5e4efcf0a6c6077adb0.png)
 
-I,m Abhishek from India and i do Android development and cyb sec. I really enjoy learning languages ,I'm currently learning python and c++
+I,m Abhishek from India and i do Android development and cyb sec. I really enjoy learning languages ,
 
 Skills: / C++ / Python
 
 - 🔭 I’m currently working on Building custom roms and kernels 
-- 🌱 I’m currently learning c++  
+- 🌱 I’m currently learning c++ and python  
 - 🤔 I’m looking for help with Teach me more contents about languages 
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 

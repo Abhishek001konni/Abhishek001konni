@@ -2,8 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on teaching me to learn rom and kernel building
--  
-📫https://t.me/Lopster_70
+- 📫 [Telegram](https://t.me/Lopster_70)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek001konni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 

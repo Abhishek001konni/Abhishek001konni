@@ -9,8 +9,6 @@ I'm Abhishek from India.I do Android development and cyb sec. I really enjoy lea
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 
 - 
-  <a href=https://app.hackthebox.com/profile/586821><img alt="GotRoot" src=https://www.hackthebox.eu/badge/image/586821></a>
-
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001konni&hide=php&theme=tokyonight">
 </a>

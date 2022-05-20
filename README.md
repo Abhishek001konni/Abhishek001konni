@@ -14,12 +14,8 @@ I'm Abhishek from India.I do Android development and cyb sec. I really enjoy lea
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek001konni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
 
-[![Abhishek001konni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek001konni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek001konni&theme=highcontrast)](https://git.io/streak-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Abhishek001konni)  
 
 
 

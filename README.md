@@ -8,7 +8,6 @@ I'm Abhishek from India.I do Android development and cyb sec. I really enjoy lea
 - 🤔 I’m seeking help to learn more contents about languages 
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 
-- 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001konni&hide=php&theme=tokyonight">
 </a>

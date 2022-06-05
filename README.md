@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there,I'm Abhishek Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there,I'm Abhishek Nice to see you 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001konni&hide=php&theme=tokyonight">
 </a>
